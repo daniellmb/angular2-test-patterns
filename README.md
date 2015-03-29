@@ -3,4 +3,4 @@ A High-Quality Guide for Testing Angular 2 Applications
 
 **If this gets enough stars ★ I'll start on it right away :)**
 
-All patterns will be written in ES6 and TypeScript.
+All patterns will be written in ES6 (with generated ES5) and TypeScript.
